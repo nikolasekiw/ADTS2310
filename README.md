@@ -1,2 +1,2 @@
 # Testing av programvare 
-> Semesteroppgave i daget ADTS2310 - 2020
+> Semesteroppgave i faget ADTS2310 - 2020
